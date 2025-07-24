@@ -19,7 +19,7 @@ Esto asegura que todos los commits tengan tu identidad correctamente asociada.
 
 ---
 
-## 7. Ver la configuración guardada
+## Ver la configuración guardada
 
 Puedes ver cómo se guarda tu configuración global ejecutando:
 
