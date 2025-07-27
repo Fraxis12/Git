@@ -1,0 +1,18 @@
+## ¿Cuándo debemos hacer un commit?
+
+No existe una regla estricta que indique exactamente **cuándo** hacer un commit, pero es importante entender que **cada commit actúa como un punto de restauración** dentro del historial del proyecto. Permite volver atrás si algo sale mal.
+
+### Buenas prácticas recomendadas
+
+- 🔹 **Haz un commit por cada funcionalidad completa**  
+  Por ejemplo, al terminar de implementar un botón, una validación o una nueva vista. La idea es que cada commit represente un cambio significativo y coherente.
+
+- 🔹 **Evita hacer commits demasiado frecuentes**  
+  No es necesario hacer un commit por cada letra que cambias. Agrupa tus cambios de forma lógica para mantener un historial limpio y entendible.
+
+- 🔹 **Usa mensajes de commit descriptivos**  
+  Así será más fácil identificar qué hace cada cambio en el historial.
+
+---
+
+> ⚠️ Un commit es como un "punto de control" en tu proyecto. Si haces muchos sin sentido o muy pocos, puedes perder claridad o control en tu flujo de trabajo.
